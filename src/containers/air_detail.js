@@ -69,7 +69,6 @@ class AirDetail extends Component {
             </tr>
           </tbody>
         </table>
-        <span className='info'>{convertMiseGrade(pm10Value)}</span> <br /> <br />
       </div>
     );
   }
