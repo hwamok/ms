@@ -19,6 +19,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "proxy": "http://openapi.airkorea.or.kr/openapi",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-react": "^7.12.4"
